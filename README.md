@@ -4,6 +4,8 @@
 
 Este prato é a minha versão pessoal de um curry brasileiro com alma japonesa. Inspirado no famoso **Arroz com Curry da Kokoro**, essa receita tem molho espesso, carne macia e um toque secreto de maçã que equilibra tudo. Rende **10 porções** — perfeito para servir **5 pessoas com repetição** (e elas vão pedir!).
 
+<p align="center"><img src="assets/prato.jpg" width="600px"></p>
+
 ---
 
 ## Ingredientes
@@ -51,7 +53,7 @@ Este prato é a minha versão pessoal de um curry brasileiro com alma japonesa. 
 
 4. Remova as cascas e a "tampinha" de cima. Em um prato, **amasse bem os tomates com um garfo** até formarem uma polpa rústica.
 
-<p align="center"><img src="links_das_minhas_imagens" width="600px"></p>
+<p align="center"><img src="assets/tomatecortado.png" width="600px"></p>
 
 ---
 
@@ -64,7 +66,7 @@ Este prato é a minha versão pessoal de um curry brasileiro com alma japonesa. 
 
 3. Escorra os legumes e **reserve a água do cozimento** em um recipiente separado. Ela será usada para ajustar o molho no final.
 
-<p align="center"><img src="links_das_minhas_imagens" width="600px"></p>
+<p align="center"><img src="assets/batacenocorte.png" width="600px"></p>
 
 ---
 
@@ -82,7 +84,7 @@ Este prato é a minha versão pessoal de um curry brasileiro com alma japonesa. 
 
 > **Dica:** Quanto mais tempo a carne marinar, mais saborosa ela fica. Se possível, deixe na geladeira por **pelo menos 30 minutos**. Essa combinação vai dar à carne uma camada extra de sabor e uma cor ainda mais bonita por causa da páprica!
 
-<p align="center"><img src="links_das_minhas_imagens" width="600px"></p>
+<p align="center"><img src="assets/carnetempero.png" width="600px"></p>
 
 ---
 
@@ -96,7 +98,7 @@ Este prato é a minha versão pessoal de um curry brasileiro com alma japonesa. 
 3. Acrescente as **2 colheres de curry** e, em seguida, adicione **a polpa de tomate amassada**.
 4. Vá despejando aos poucos a **água reservada do cozimento dos tomates**, mexendo bem até o molho reduzir e ganhar consistência.
 
-<p align="center"><img src="links_das_minhas_imagens" width="600px"></p>
+<p align="center"><img src="assets/row.png" width="600px"></p>
 
 ---
 
@@ -108,7 +110,7 @@ Este prato é a minha versão pessoal de um curry brasileiro com alma japonesa. 
 
 > ⚠️ **Atenção:** Selar a carne separadamente é essencial para travar o sabor da marinada e criar uma casquinha dourada. Não pule essa etapa nem cozinhe direto no molho!
 
-<p align="center"><img src="links_das_minhas_imagens" width="600px"></p>
+<p align="center"><img src="assets/selacarne.png" width="600px"></p>
 
 ---
 
@@ -124,7 +126,7 @@ Este prato é a minha versão pessoal de um curry brasileiro com alma japonesa. 
 
 6. Quando o molho estiver **bem grosso e encorpado**, está pronto para servir!
 
-<p align="center"><img src="links_das_minhas_imagens" width="600px"></p>
+<p align="center"><img src="assets/carnefeita.png" width="600px"></p>
 
 ---
 
